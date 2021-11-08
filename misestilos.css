@@ -1,0 +1,155 @@
+body { background-image: url("https://lh3.googleusercontent.com/8WdZ7UY4vak2UqlI-nsP8PALlh_25nmWqXYEWVQGYvPxBGBdA3DT2SgZrwxDmCuuid1Bv-h8dMkArUvl4_d8s4p1_eiwGg_RYM-0YHEP6LvQug3TVtGrfB4ooFq3IOHCxw=w1280") }
+#cabeceralogo {
+    width: 96%;
+    height: 150px;
+    padding: 0% 2%;
+    background-color: #65c0eb;
+    }
+    #cabeceralogo > div {
+    width: 960px;
+    margin: 0px auto;
+    padding-top: 45px;
+    }
+    h1{
+        color: rgb(209, 21, 21);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 50px;
+        text-align: left;
+    
+    }
+    span { color: rgb(255, 251, 251) }
+#spann{
+    color: rgb(10, 0, 95)
+    }
+#menuprincipal {
+width: 96%;
+height: 50px;
+padding: 0% 2%;
+border-top: 1px solid #65c0eb;
+border-bottom:  20px solid #65c0eb;
+background-color: #65c0eb;
+
+}
+#menuprincipal > div {
+width: 960px;
+margin: 0px auto;
+}
+#menuprincipal li {
+    display: inline-block;
+    height: 35px;
+    padding: 15px 10px 0px 10px;
+    margin-right: 5px;
+    border-radius: 20%;
+    }
+    #menuprincipal li:hover {
+        background-color: #0064a7;
+        color: rgb(255, 255, 255);
+    }
+    #menuprincipal a {
+    font: bold 18px Arial, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    }
+    main {
+        width: 96%;
+        padding: 2%;
+        }
+        main > div {
+        width: 960px;
+        margin: 0px auto;
+        }
+
+
+        #articulosprincipales {
+            float: left;
+            width: 620px;
+        padding-top: 30px;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        }
+        #infoadicional {
+        float: right;
+        width: 280px;
+        padding: 20px;
+        background-color: #E7F1F5;
+        border-radius: 10px;
+        }
+        #infoadicional h1 {
+        font: bold 18px Arial, sans-serif;
+        color: #333333;
+        margin-bottom: 15px;
+        }
+        .recuperar {
+        clear: both;
+        }
+        article {
+            position: relative;
+            padding: 0px 40px 20px 40px;
+            }
+            article time {
+            display: block;
+            position: absolute;
+            top: -5px;
+            left: -70px;
+            width: 80px;
+            padding: 15px 5px;
+            background-color: #094660;
+            box-shadow: 3px 3px 5px rgba(100, 100, 100, 0.7);
+            border-radius: 5px;
+            }
+            .numerodia {
+            font: bold 36px Verdana, sans-serif;
+            color: #FFFFFF;
+            text-align: center;
+            }
+            .nombredia {
+            font: 12px Verdana, sans-serif;
+            color: #FFFFFF;
+            text-align: center;
+            }
+            article h1 {
+                margin-bottom: 5px;
+                font: bold 30px Georgia, sans-serif;
+                }
+                article p {
+                font: 18px Georgia, sans-serif;
+                }
+                figure {
+                margin: 10px 0px;
+                }
+                figure img {
+                padding: 5px;
+                border: 1px solid;
+                }
+                #pielogo {
+                    width: 96%;
+                    padding: 2%;
+                    background-color: #0F76A0;
+                    }
+                    #pielogo > div {
+                    width: 960px;
+                    margin: 0px auto;
+                    background-color: #9FC8D9;
+                    border-radius: 10px;
+                    }
+                    .seccionpie {
+                    float: left;
+                    width: 270px;
+                    padding: 25px;
+                    }
+                    .seccionpie h1 {
+                        font: bold 20px Arial, sans-serif;
+                        }
+                        .seccionpie p {
+                        margin-top: 5px;
+                        }
+                        .seccionpie a {
+                        font: bold 16px Arial, sans-serif;
+                        color: #666666;
+                        text-decoration: none;
+                        }
+                        .seccionpie {
+                            float: left;
+                            width: 27.33%;
+                            padding: 3%;
+                            }
